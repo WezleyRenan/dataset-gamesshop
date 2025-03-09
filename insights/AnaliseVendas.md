@@ -64,3 +64,5 @@ Na AliExpress, o produto mais vendido é o NEW MEGANIUM RG 40XXV com 11 unidades
 Na Shopee, o produto mais vendido também é o NEW MEGANIUM RG 40XXV com 10 unidades.
 
 Os produtos NEW MEGANIUM RG35XX e NEW MEGANIUM RG28XX também tiveram vendas significativas em ambas as plataformas.
+
+link do prompt: https://copilot.microsoft.com/shares/B1AtSpwfq8G3am9e81Vc6
